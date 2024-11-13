@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bechan94/todo-react.git/static/css/main.88499180.css",
+    "main.js": "/Bechan94/todo-react.git/static/js/main.382356c0.js",
+    "index.html": "/Bechan94/todo-react.git/index.html",
+    "main.88499180.css.map": "/Bechan94/todo-react.git/static/css/main.88499180.css.map",
+    "main.382356c0.js.map": "/Bechan94/todo-react.git/static/js/main.382356c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88499180.css",
+    "static/js/main.382356c0.js"
+  ]
+}
